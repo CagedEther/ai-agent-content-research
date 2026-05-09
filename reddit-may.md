@@ -1,21 +1,7 @@
-**We’re hiring AI Agent Builders** 
-https://www.reddit.com/r/AiBuilders/comments/1t74rez/were_hiring_ai_agent_builders/
-Looking for someone who has successfully built &amp; deployed AI agents/workflows before.
+**"Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action." ➡️ Is tool access what makes agents useful?** 
+https://www.reddit.com/r/LovingAIAgents/comments/1t77fd5/composio_powers_1000_toolkits_tool_search_context/
+[https://github.com/ComposioHQ/composio](https://github.com/ComposioHQ/composio)
 
-Experience with tools like n8n, LangChain, OpenAI APIs, automations, MCPs etc. is a plus.
-
-Remote opportunity.
-
-Compensation: based on experience + interview performance.
-
-If interested, DM with:
-
-What you’ve built
-
-Links/projects/GitHub
-
-Your background
-
-Building the future of AI execution at Gravity.
-2026-05-08T11:09:20.000Z
+More Open-ish AI resources at our sub's website Lifehubber:  [https://lifehubber.com/ai/resources/](https://lifehubber.com/ai/resources/)  100+ models/agents/tools/etc
+2026-05-08T13:07:08.000Z
 

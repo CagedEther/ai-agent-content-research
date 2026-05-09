@@ -1,7 +1,7 @@
-**Suggestions for hands-on AI Agent courses** 
-https://www.reddit.com/r/nocode/comments/1t70hni/suggestions_for_handson_ai_agent_courses/
-If you want hands-on AI Agent learning instead of only theory, SimplAI University is really good. You can build AI agents, automations, and RAG workflows directly on their platform using free credits while learning.
+**How to build an AI Agent** 
+https://www.reddit.com/r/AIFlowTech/comments/1t76chm/how_to_build_an_ai_agent/
+Images:
+	https://preview.redd.it/w5fcrubapwzg1.jpeg?auto=webp&amp;s=37e92a09bd8dd29ffcb372f0d6e984df70107c40
 
-[https://simplai.ai/simplai-university](https://simplai.ai/simplai-university)
-2026-05-08T07:11:51.000Z
+2026-05-08T12:22:58.000Z
 

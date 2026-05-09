@@ -1,7 +1,21 @@
-**Agentic Ai Guide** 
-https://www.reddit.com/r/InfosecTrain1/comments/1t6y11m/agentic_ai_guide/
-"Agentic AI Guide" roadmap presents a complete guide to learning AI agent systems. The system provides complete training from prompting through memory to APIs and workflows and multi-agent systems. 
+**We’re hiring AI Agent Builders** 
+https://www.reddit.com/r/AiBuilders/comments/1t74rez/were_hiring_ai_agent_builders/
+Looking for someone who has successfully built &amp; deployed AI agents/workflows before.
 
-Which phase do you think is the hardest for beginners?
-2026-05-08T04:59:04.000Z
+Experience with tools like n8n, LangChain, OpenAI APIs, automations, MCPs etc. is a plus.
+
+Remote opportunity.
+
+Compensation: based on experience + interview performance.
+
+If interested, DM with:
+
+What you’ve built
+
+Links/projects/GitHub
+
+Your background
+
+Building the future of AI execution at Gravity.
+2026-05-08T11:09:20.000Z
 
